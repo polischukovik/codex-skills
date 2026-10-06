@@ -1,0 +1,4 @@
+interface:
+  display_name: "Genesys Platform SDK Ref"
+  short_description: "Local Genesys API shape reference"
+  default_prompt: "Use $genesys-platform-sdk-ref to resolve a Genesys Cloud Platform API request shape from the local Platform SDK before we write or change code."

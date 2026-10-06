@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "polischukovik-codex-skills",
+  "version": "0.1.0",
+  "description": "Portable Genesys Cloud, documentation-rendering, spreadsheet-export, and SQL-contract workflows for Codex."
+}

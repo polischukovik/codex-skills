@@ -1,0 +1,4 @@
+interface:
+  display_name: "Genesys Flow Designer"
+  short_description: "Design Genesys Cloud Architect flows"
+  default_prompt: "Use $genesys-flow-designer to design, refactor, export, or publish a Genesys Cloud Architect flow with Archy YAML or the Architect Scripting SDK."

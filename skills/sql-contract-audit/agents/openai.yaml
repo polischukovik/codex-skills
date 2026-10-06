@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Contract Audit"
+  short_description: "Check SQL, CSV, and docs stay aligned"
+  default_prompt: "Use $sql-contract-audit to verify this report's SQL, mapping CSV, and playbook are still aligned."

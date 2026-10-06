@@ -1,0 +1,4 @@
+interface:
+  display_name: "JS Rendered Docs"
+  short_description: "Render SPA docs into Markdown"
+  default_prompt: "Use $js-rendered-docs to fetch and convert this JavaScript-rendered docs page into compact Markdown."

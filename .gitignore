@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+scraped-docs/
+python_deps/
+playwright-browsers/

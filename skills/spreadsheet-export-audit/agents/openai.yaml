@@ -1,0 +1,4 @@
+interface:
+  display_name: "Export Audit"
+  short_description: "Profile large report exports efficiently"
+  default_prompt: "Use $spreadsheet-export-audit to compare this generated export to the golden sample with distributions and focused anomaly checks."

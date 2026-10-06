@@ -1,0 +1,4 @@
+interface:
+  display_name: "GC CLI"
+  short_description: "Focused Genesys Cloud CLI spot checks"
+  default_prompt: "Use $gc-cli to verify a Genesys Cloud assumption with a focused live CLI check before I change the mapping or docs."

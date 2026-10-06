@@ -1,0 +1,4 @@
+interface:
+  display_name: "Genesys Proofing"
+  short_description: "Minimal live Genesys proof workflow"
+  default_prompt: "Use $genesys-live-proofing to verify this Genesys mapping claim with the smallest live proof that can settle it."
